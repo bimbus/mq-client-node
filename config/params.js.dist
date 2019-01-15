@@ -1,0 +1,9 @@
+import path from 'path'
+
+export const params = {
+  projectId: '',
+  keyFilename: path.join(__dirname, 'gcp-credentials.json'),
+  topic: '',
+  subscription: '',
+  maxMessages: 10,
+}
