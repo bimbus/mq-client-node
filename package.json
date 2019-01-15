@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crapougnax/mq-client-node.git"
+    "url": "git+https://github.com/bimbus/mq-client-node.git"
   },
   "keywords": [
     "message-queue",
@@ -21,9 +21,9 @@
   "author": "Olivier Lépine <olivier@lepine.fr>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/crapougnax/mq-client-node/issues"
+    "url": "https://github.com/bimbus/mq-client-node/issues"
   },
-  "homepage": "https://github.com/crapougnax/mq-client-node#readme",
+  "homepage": "https://github.com/bimbus/mq-client-node#readme",
   "dependencies": {
     "@google-cloud/pubsub": "^0.18.0"
   },

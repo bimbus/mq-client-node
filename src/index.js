@@ -44,7 +44,9 @@ client
   .then((message) => {
     if (message) {
       console.log(`Received message #${message.id}`)
-      console.log(message)
+
+      // get data
+
       // acknowledge message
       var request = {
         subscription: subscription,
